@@ -1,0 +1,9 @@
+kubernetes:
+  authEndpoint: https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:443
+prometheus:
+  kubeStateMetrics:
+    enabled: true
+nginx:
+  username: stratos
+  password: xxxxxxxxxxxxxx 
+useLb: true
